@@ -1,0 +1,60 @@
+.outer
+{
+    display: flex;
+    padding-left: 20px;
+}
+.img
+{
+    height: 600px;
+    width: 600px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 30px;
+    display: flex;
+}
+.login
+{
+    height: 600px;
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 200px;
+    /* background-color: plum; */
+}
+.img1
+{
+    margin-top: 20px;
+    margin-left: 170px;
+}
+
+h1{
+    text-align: center;
+}
+.mail
+{
+    width: 400px;
+    margin-top: 30px;
+}
+.pass
+{
+    width: 400px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.btn
+{
+    background-color: blue;
+
+    width: 400px;
+    margin-top: 20px;
+    color: aliceblue;
+}
+.link
+{
+    margin-right: 50px;
+}
+.lab2
+{
+margin-top: 20px;
+margin-left: 90px;
+color: gray;
+}
